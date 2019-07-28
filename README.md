@@ -6,7 +6,7 @@ There are only 2 project in this repo:-
 
 
 
-SpringBoot-With-kafka project - it will show how to consume the message kafka
+SpringBoot-With-kafka project - it will show how to consume the message
 
 
 
@@ -16,4 +16,4 @@ SpringBoot-With-kafka project - it will show how to consume the message kafka
 
 
 
-SpringBoot-With-kafka-publish it show you how to publish the message viva kafka
+publish message it show you how to publish the message 
